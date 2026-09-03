@@ -1,0 +1,14 @@
+D:\262\POO\POO manha\ClasseAluno\bin\Debug\net8.0\ClasseAluno.exe
+D:\262\POO\POO manha\ClasseAluno\bin\Debug\net8.0\ClasseAluno.deps.json
+D:\262\POO\POO manha\ClasseAluno\bin\Debug\net8.0\ClasseAluno.runtimeconfig.json
+D:\262\POO\POO manha\ClasseAluno\bin\Debug\net8.0\ClasseAluno.dll
+D:\262\POO\POO manha\ClasseAluno\bin\Debug\net8.0\ClasseAluno.pdb
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfoInputs.cache
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfo.cs
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.csproj.CoreCompileInputs.cache
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.dll
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\refint\ClasseAluno.dll
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.pdb
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ClasseAluno.genruntimeconfig.cache
+D:\262\POO\POO manha\ClasseAluno\obj\Debug\net8.0\ref\ClasseAluno.dll
