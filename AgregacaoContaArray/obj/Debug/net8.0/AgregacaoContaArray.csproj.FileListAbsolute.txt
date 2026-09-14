@@ -1,0 +1,14 @@
+D:\262\POO\POO manha\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.exe
+D:\262\POO\POO manha\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.deps.json
+D:\262\POO\POO manha\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.runtimeconfig.json
+D:\262\POO\POO manha\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.dll
+D:\262\POO\POO manha\AgregacaoContaArray\bin\Debug\net8.0\AgregacaoContaArray.pdb
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfoInputs.cache
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.AssemblyInfo.cs
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.csproj.CoreCompileInputs.cache
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.dll
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\refint\AgregacaoContaArray.dll
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.pdb
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\AgregacaoContaArray.genruntimeconfig.cache
+D:\262\POO\POO manha\AgregacaoContaArray\obj\Debug\net8.0\ref\AgregacaoContaArray.dll
