@@ -7,6 +7,9 @@ namespace AgregacaoVenda
 {
     public class Venda
     {
-        
+        public int MyProperty { get; set; }
+
+        public List<Produto> VetProdutos {get; set; }
+
     }
 }
