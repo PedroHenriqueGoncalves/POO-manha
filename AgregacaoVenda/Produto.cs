@@ -11,13 +11,13 @@ namespace AgregacaoVenda
         public string Nome { get; set; }
         public double Preco { get; set; }
 
-        public void Mostra(){
+        public void MostrarAtributos(){
             System.Console.WriteLine($"Codigo:{Codigo}, Nome:{Nome}, Preco:{Preco}");
         }
 
         public Produto(int codigo, string nome, double preco)
         {
-            Codigo = codigo;
+            Codigo = 501;
             Nome = nome;
             Preco = preco;
         }

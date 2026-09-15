@@ -7,17 +7,17 @@ namespace AgregacaoVenda
 {
     public class Comprador
     {
+        private double verba;
         public double Verba { 
-                    get{return Verba;}
-                    set {Verba = value;}
-        }
-
-
+                    get{return verba;}
+                    set{ verba = value;}
+            }
+        
         public void DiminuirVerba(double preco){
-            Verba = Verba - preco; 
+            verba = verba - preco; 
         }
-        public void Mostrar(){
-            System.Console.WriteLine($"Verba do comprador: {Verba:c}");
+        public void MostrarAtributos(){
+            System.Console.WriteLine($"Verba do comprador: {verba:c}");
         }
 
     }

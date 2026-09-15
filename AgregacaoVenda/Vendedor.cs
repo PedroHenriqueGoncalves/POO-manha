@@ -9,13 +9,11 @@ namespace AgregacaoVenda
     {
         public double Comissao { get ; set; }
 
-        public void Mostrar(){
+        public void CalcularComissao(double preco){
+             Comissao = preco * 0.02;
+        }
+        public void MostrarAtributos(){
             System.Console.WriteLine($"Valor da Comissão: {Comissao}");
         }
-
-        public void CalcularComissao(double preco){
-             Comisao = preco * 0.02;
-        }
     }
-
 }
